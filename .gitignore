@@ -1,0 +1,5 @@
+data/gender_submission.csv
+data/test.csv
+data/train.csv
+.ipynb_checkpoints/titanic_predict_classificaton-checkpoint.ipynb
+.ipynb_checkpoints/Titanic-Luchkin-3ISP11-7-checkpoint.ipynb
